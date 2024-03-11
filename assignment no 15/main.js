@@ -30,3 +30,4 @@ console.log("NEW SET OF INVITATIONS MESSAGES:");
 for (let guest of guestName) {
     console.log(`Dear ${guest}, are u coming for dinner tonight.`);
 }
+console.log(guestName);
